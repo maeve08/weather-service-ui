@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cities Component snapshot loading pagination 1`] = `
+<div
+  id="pageContainerId"
+>
+  <h1>
+    Temperatures per City
+  </h1>
+  <div
+    id="tableContainerId"
+  >
+    <table>
+      <thead>
+        <tr>
+          <td>
+            City
+          </td>
+          <td>
+            Temperature
+          </td>
+        </tr>
+      </thead>
+      <tbody />
+    </table>
+  </div>
+</div>
+`;
